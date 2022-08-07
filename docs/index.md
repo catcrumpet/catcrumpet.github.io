@@ -8,12 +8,12 @@ I am a real person.
 ## Experience Daniel
 - My [CV](cv.md) contains information on my education, experience, and publications. Alternatively, my [Google Scholar profile](https://scholar.google.com/citations?user=CJHkAy0AAAAJ) can attest that I am a real person with real publications.
 - All of the software I have produced or manage can be found at my [Github profile](https://github.com/catcrumpet/).
-- I also have a [LinkedIn profile](https://www.linkedin.com/in/daniel-chu-56597a9/).
+- I also have a [LinkedIn profile](https://www.linkedin.com/in/daniel-chu-horse/).
 
 ## Communicate with Daniel
 Email: <chudanie@usc.edu>
 
-I try to respond to all emails that fall under one of more of the following categories:
+I try to respond to all emails that fall under one or more of the following categories:
 
 - Job opportunities.
 - Academic collaborations.

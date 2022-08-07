@@ -93,7 +93,7 @@ Committee Chair: Ricky Bluthenthal
 - Conducted street-intercept surveys throughout the project area,
 - Investigated potential associations between neighborhood perceptions of social trust and control and healthcare use and access.
 
-**Center for the Study of Asian American Health, NYU**, New York, NY  
+**Center for the Study of Asian American Health, New York University**, New York, NY  
 *Research Intern, B Free CEED* (July 2010 - December 2010)
 
 - *Principal Investigator: Mariano J. Rey, MD*
