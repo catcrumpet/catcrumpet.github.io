@@ -33,6 +33,9 @@ Committee Chair: Ricky Bluthenthal
 *Bachelor of Arts in Sociology* (2008)
 
 ## Professional Experience
+**Teladoc Health**, Remote
+*Clinical Data Scientist III* (August 2021 - Present)
+
 **Emendata, LLC**, San Francisco, CA  
 *Senior Data Analyst* (October 2021 - June 2022)
 
