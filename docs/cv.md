@@ -10,8 +10,8 @@ Researcher experienced with many data collection and analysis methodologies and 
 
 ## Skills
 <!-- *Hover over items for details.*   -->
-**Programming/Statistical Languages**: R, Python, SAS, Bash, SQL, C++, MPlus
-**Statistical Methods**: Generalized linear models (and mixed models), survival models (time-to-event analysis), structural equation modeling (EFA, CFA, LCA, LGM, and the like) 
+**Programming/Statistical Languages**: R, Python, SAS, Bash, SQL, C++, MPlus.  
+**Statistical Methods**: Generalized linear models (and mixed models), survival models (time-to-event analysis), structural equation modeling (EFA, CFA, LCA, LGM, and the like)  
 **Technologies or Frameworks**: Linux, S3, Git, GIS, accelerometry
 
 <!--
