@@ -10,12 +10,12 @@ Researcher experienced with many data collection and analysis methodologies and 
 
 ## Skills
 <!-- *Hover over items for details.*   -->
-**Programming/Statistical Languages**: R, Python, SAS, Bash, SQL, C++, MPlus  
+**Programming/Statistical Languages**: R, Python, SAS, Bash, SQL, C++, MPlus
+**Statistical Methods**: Generalized linear models (and mixed models), survival models (time-to-event analysis), structural equation modeling (EFA, CFA, LCA, LGM, and the like) 
 **Technologies or Frameworks**: Linux, S3, Git, GIS, accelerometry
 
 <!--
 ### For the nerds
-- Statistical Approaches: GLM, GLMM, GAM, SEM, survival analysis
 - Knowledge Domains: Illicit drug use, injection drug use, physical activity, EMA
 -->
 
