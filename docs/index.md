@@ -11,7 +11,7 @@ I am a real person.
 - I also have a [LinkedIn profile](https://www.linkedin.com/in/daniel-chu-horse/).
 
 ## Communicate with Daniel
-Email: <chudanie@usc.edu>
+Email: <danielchu@danielchu.horse>
 
 I try to respond to all emails that fall under one or more of the following categories:
 
