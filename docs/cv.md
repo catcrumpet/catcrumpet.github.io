@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 # Daniel Chu, PhD, MPH
 
-This is a highly truncated CV, please contact me directly to recieve the latest version.
+This is a highly truncated CV, please contact me directly to receive the latest version.
 
 ## Education
 **University of Southern California**, Los Angeles, CA  
