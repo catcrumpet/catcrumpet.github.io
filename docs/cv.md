@@ -21,7 +21,7 @@ Committee Chair: Ricky Bluthenthal
 
 ## Professional and Research Experience
 
-**Homeward Health**, Remote
+**Homeward Health**, Remote  
 *Senior Data Scientist, Causal Inference* (August 2025 - May 2026)
 
 **Teladoc Health**, Remote  
